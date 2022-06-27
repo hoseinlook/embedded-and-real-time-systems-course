@@ -46,7 +46,7 @@ NPPScheduler(npp_taskset).run()
 
 
     
-![png](output_2_1.png)
+![png](results/output_2_1.png)
     
 
 
@@ -90,7 +90,7 @@ HLPScheduler(hlp_taskset).run()
 
 
     
-![png](output_4_1.png)
+![png](results/output_4_1.png)
     
 
 
@@ -127,7 +127,7 @@ PIPScheduler(pip_taskset).run()
 
 
     
-![png](output_6_1.png)
+![png](results/output_6_1.png)
     
 
 
@@ -201,7 +201,7 @@ PIPScheduler(task_set).run()
 
 
     
-![png](output_11_1.png)
+![png](results/output_11_1.png)
     
 
 
